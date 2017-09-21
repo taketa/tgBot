@@ -1,9 +1,6 @@
 package data
 
-//const FirebaseUrl = "https://telegram-ec06a.firebaseio.com/" //old
-//const FirebaseUrl = "https://telegram2-2f551.firebaseio.com/" //new
 const FirebaseUrl = "https://botmulti-18c0b.firebaseio.com/" //multi
-//const FirebaseUrl = "https://bottest-5ded9.firebaseio.com/" //forTest
 const Used = "3000"
 const ForParts = "7000"
 const New = "1000"
@@ -55,10 +52,7 @@ Other Cell Phone Accessories = aother
 
 `
 
-//const BotToken = "393496732:AAHyZBYCpul9LbG5f8qe7OPyqYyHVCWxEU8"
-
-//const BotToken = "358478690:AAH1n-iye8x4l3Tabnh3tqnVqWJLJyJ-N6c" //bot for test
-const BotToken = "405135036:AAE98CHp4GOy8gu-F_EBm-mNHV6R1ZOXD14" //bot multi
+const BotToken = "358478690:AAH1n-iye8x4l3Tabnh3tqnVqWJLJyJ-N6c" //bot for test
 const ChatId = 328852780
 
 //Telegram bot for automating the process of the searching for the new lots. (Beta)
